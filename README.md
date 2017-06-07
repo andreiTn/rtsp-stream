@@ -47,7 +47,6 @@ Client (index.html):
 </script>
 ```
 
-For more detailed example look at [/example/server.js](/example/server.js)
 For large images resolution or IP cameras example check [/example/server-canvas.js](/example/server-canvas.js)
 
 ## FFMpeg
@@ -60,3 +59,5 @@ For large images resolution or IP cameras example check [/example/server-canvas.
     , quality: 3 // JPEG compression quality level (optional)
   });
 ```
+Original Repository: [https://github.com/agsh/rtsp-ffmpeg](https://github.com/agsh/rtsp-ffmpeg)
+Npm: [https://www.npmjs.com/package/rtsp-ffmpeg](https://www.npmjs.com/package/rtsp-ffmpeg)
